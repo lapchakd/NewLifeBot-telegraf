@@ -3,13 +3,9 @@
   "version": "1.0.0",
   "description": "secondlf_bot",
   "main": "index.js",
-  "scripts": {
-    "start": "npm start index.js"
-  },
   "engines": {
     "node": "15.3.0"
-  }
-,
+  },
   "author": "Lapchak",
   "license": "ISC",
   "dependencies": {
