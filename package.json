@@ -9,6 +9,7 @@
   "author": "Lapchak",
   "license": "ISC",
   "dependencies": {
+    "package": "^1.0.1",
     "telegraf": "^3.38.0",
     "telegraf-inline-menu": "^5.3.0"
   }
