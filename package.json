@@ -4,8 +4,12 @@
   "description": "secondlf_bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
+  "engines": {
+    "node": "15.3.0"
+  }
+,
   "author": "Lapchak",
   "license": "ISC",
   "dependencies": {
